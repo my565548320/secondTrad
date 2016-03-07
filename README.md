@@ -1,1 +1,3 @@
-# secondTrad
+# basketball
+
+a [Sails](http://sailsjs.org) application
